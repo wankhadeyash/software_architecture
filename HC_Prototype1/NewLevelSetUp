@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T06:47:18.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" version="20.0.1" etag="avrpbq4eSYPxU4maxicU" type="github"><diagram id="zCa6y36IwC-tusUm8uEw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-19T06:52:13.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="kjX8rxbAEf_MeWqeDZKQ" version="20.0.1" type="github">
+  <diagram id="zCa6y36IwC-tusUm8uEw" name="Page-1">
+    <mxGraphModel dx="2272" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hxgR5FqObNETFTUppvPk-1" value="1. Level - LevelManager&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="15" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxgR5FqObNETFTUppvPk-4" value="2.Cube - Default" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="45" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hxgR5FqObNETFTUppvPk-5" value="3.WayPoints - Empty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="80" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hxgR5FqObNETFTUppvPk-6" value="3.1 WayPoints - Transform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hxgR5FqObNETFTUppvPk-7" value="4.EnemySpawnPoint - Empty&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="150" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hxgR5FqObNETFTUppvPk-8" value="4.1 Points - EnempySpawnArea, Collider (Trigger)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="190" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hxgR5FqObNETFTUppvPk-9" value="5. Obstacle - Empty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hxgR5FqObNETFTUppvPk-10" value="&lt;br&gt;5.1 Cube - Default" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxgR5FqObNETFTUppvPk-11" value="6. Buildings - Empty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="310" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hxgR5FqObNETFTUppvPk-12" value="6.1 Buildings - Preafab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="350" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
